@@ -1,0 +1,25 @@
+*{
+    color: brown;
+}
+.main{
+    display: flex;
+}
+.list{
+    width: 20%;
+background-color: aqua;
+min-height: 100px;
+}
+h2:hover{
+    color: green;
+    text-decoration: underline;
+}
+h2:visited{
+    color: rgb(13, 0, 128);
+    /* text-decoration: underline;
+    font-size: 2em; */
+}
+.card{
+    width: 80%;
+    background-color: yellowgreen;
+    min-height: 100px;
+}
